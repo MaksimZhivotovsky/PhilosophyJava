@@ -22,7 +22,7 @@ public class Tank {
 	@Override
 	public void finalize() {
 		if(check) {
-			System.out.println("Нужно опустошить!!!!");
+			System.out.println("РЅСѓР¶РЅРѕ РѕРїСѓСЃС‚РѕС€РёС‚СЊ!!!!");
 		} else {
 			System.out.println("Tank.finalize");
 		}

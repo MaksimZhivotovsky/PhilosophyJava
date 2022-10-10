@@ -8,12 +8,12 @@ public class Exercise_22 {
 	
 	public Exercise_22(Money money) {
 		switch(money) {
-		case UK: System.out.println("Деньги Британии"); break;
-		case US: System.out.println("Деньги Америки"); break;
-		case RU: System.out.println("Деньги России"); break;
-		case EU: System.out.println("Деньги Европы"); break;
-		case UA: System.out.println("Деньги Украины"); break;
-		default: System.out.println("В списке таких денег нету"); break;
+		case UK: System.out.println("РґРµРЅСЊРіРё РђРЅРіР»РёРё"); break;
+		case US: System.out.println("РґРµРЅСЊРіРё РђРјРµСЂРёРєРё"); break;
+		case RU: System.out.println("РґРµРЅСЊРіРё Р РѕСЃСЃРёРё"); break;
+		case EU: System.out.println("РґРµРЅСЊРіРё Р•РІСЂРѕРїС‹"); break;
+		case UA: System.out.println("РґРµРЅСЊРіРё РЈРєСЂР°РёРЅС‹"); break;
+		default: System.out.println("С‚Р°РєРёС… РґРµРЅРµРі РЅРµС‚ РІ СЃРїРёСЃРєРµ"); break;
 		}
 	}
 }
