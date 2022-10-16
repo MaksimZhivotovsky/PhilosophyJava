@@ -16,11 +16,7 @@ public class Exercise_17 {
 //		 LocalVariableDeclaration
 //		- The static field Exercise_17.Interface.VALUE should be accessed in a 
 //		 static way
-//		Несколько маркеров на этой линии
-//		- Синтаксическая ошибка, вставьте "VariableDeclarators" для завершения
-//		Объявление локальной переменной
-//		- Упражнение в статическом Поле_17.Интерфейс.Доступ к значению должен осуществляться
-//		статическим способом
+//		несколькп
 	}
 	
 	public interface Interface {
